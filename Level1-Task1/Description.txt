@@ -1,1 +1,2 @@
-
+Landing page for an E-commerce, shoe-selling website.
+Used languages are HTML and CSS.
